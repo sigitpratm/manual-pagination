@@ -1,0 +1,65 @@
+{
+  "coins": [
+    {
+      "id": 1,
+      "name": "test 1"
+    },
+    {
+      "id": 2,
+      "name": "test 2",
+      "symbol": "ETH"
+    },
+    {
+      "id": 3,
+      "name": "test 3"
+    },
+    {
+      "id": 4,
+      "name": "test 4"
+    },
+    {
+      "id": 5,
+      "name": "test 5"
+    },
+    {
+      "id": 6,
+      "name": "test 6"
+    },
+    {
+      "id": 7,
+      "name": "test 7"
+    },
+    {
+      "id": 8,
+      "name": "test 8"
+    },
+    {
+      "id": 9,
+      "name": "test 9"
+    },
+    {
+      "id": 1,
+      "name": "test 10"
+    },
+    {
+      "id": 1,
+      "name": "test 11"
+    },
+    {
+      "id": 1,
+      "name": "test 12"
+    },
+    {
+      "id": 1,
+      "name": "test 13"
+    },
+    {
+      "id": 1,
+      "name": "test 14"
+    },
+    {
+      "id": 1,
+      "name": "test 15"
+    }
+  ]
+}
